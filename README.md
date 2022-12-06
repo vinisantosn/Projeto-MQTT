@@ -1,4 +1,4 @@
-# Remote Procedure Call - RPC
+# MQTT
 
 O presente projeto é destinado a disciplina de Sistemas Distribuídos da Universidade Federal do Maranhão, com o propósito de implementar o MQTT. 
 
@@ -13,7 +13,7 @@ MQTT (originally an initialism of MQ Telemetry Transport[a]) is a lightweight, p
 Essas instruções permitirão que você obtenha uma cópia do projeto em operação na sua máquina local para fins de desenvolvimento e teste.
 
 ```
-- git clone https://github.com/vinisantosn/Projeto-MQTT/
+- git clone https://github.com/vinisantosn/Projeto-MQTT.git
 
 - outra opção é baixar o repositório e replicar em sua máquina.
 
@@ -35,7 +35,7 @@ Abaixo segue o relato de como foi feito os testes pelo autor
 
 Vejamos:
 
-![alt text](https://github.com/vinisantosn/Projeto-MQTT/)
+![alt text](https://github.com/vinisantosn/Projeto-MQTT/blod/master/gifs/simulation.gif)
 
 ## 🛠️ Construído com
 
