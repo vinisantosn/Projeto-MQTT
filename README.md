@@ -35,7 +35,7 @@ Abaixo segue o relato de como foi feito os testes pelo autor
 
 Vejamos:
 
-![alt text](https://github.com/vinisantosn/Projeto-MQTT/blod/master/gifs/simulation.gif)
+![alt text](https://github.com/vinisantosn/Projeto-MQTT/blob/master/gifs/simulation.gif)
 
 ## 🛠️ Construído com
 
